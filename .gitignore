@@ -8,3 +8,6 @@ __pycache__/
 Thumbs.db
 desktop.ini
 CSE437_Video Presentation/
+
+# Third-party papers kept locally only (see References in README)
+papers/
